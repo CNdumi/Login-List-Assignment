@@ -5,7 +5,8 @@
     background-color: #ffffff;
     border-radius: 5px;
     box-shadow: 0 0 10px rgba(107, 94, 94, 0.863);
-    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
   }
 
   h2 {
@@ -25,13 +26,8 @@
     margin-bottom: 20px;
   }
 
-  label {
-    display: block;
-    font-weight: bold;
-    margin-bottom: 5px;
-  }
 
-  input[type="text"],
+  input[type="tel"],
   input[type="password"] {
   width: 100%;
   padding: 10px;
@@ -61,7 +57,8 @@
     font-family: Arial, sans-serif;
     background-color: #f5f5f5;
     margin: 0;
-    padding: 0;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 h1 {
